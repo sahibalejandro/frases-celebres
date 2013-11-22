@@ -1,2 +1,6 @@
 *.sublime*
 env/*
+*.log
+*.pot
+*.pyc
+local_settings.py
